@@ -19,3 +19,11 @@ dist/
 
 # JetBrains IDEs
 .idea/
+
+# local agent tooling (never in PRs)
+.agents/
+.scratch/
+docs/agents/
+CONTEXT.md
+AGENTS.md
+.gbrain*
